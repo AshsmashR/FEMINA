@@ -94,8 +94,7 @@ Glucose: 145 mg/dL
 Gestational age: 32 weeks
 
 ✅UI OF FEMINA ✅
-<img width="1080" height="607" alt="image" src="https://github.com/user-attachments/assets/7a7ebcaa-3b59-4cce-9180-819d7f169033" />
-
+<img width="1401" height="719" alt="image" src="https://github.com/user-attachments/assets/3a1c75fe-c0d7-4154-81e3-2f66ad52e105" />
 
 Output
 
