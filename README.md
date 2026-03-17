@@ -1,13 +1,13 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/72e5a842-1248-471a-80af-52b5b14baabb" />
 
-🌸 FEMINA: A Lightweight HAI-DEF Clinical Reasoning Framework for Women’s Health
+🌸 FEMINA 🌸
+
+A Lightweight HAI-DEF Clinical Reasoning Framework for Women’s Health
 FEMINA is a modular Human-AI Decision Framework (HAI-DEF) built on MedGemma-4B-IT, designed to generate structured, explainable, and clinically cautious reasoning for women’s health conditions. Instead of producing binary labels, the system focuses on interpretable risk patterns, enabling more consistent clinical understanding and patient communication.
 
 The framework integrates parameter-efficient LoRA fine-tuning, rule-grounded retrieval (RAG), and controlled decoding to produce stable, non-diagnostic outputs aligned with real-world clinical reasoning.
 
-Problem Context
-
-Women’s endocrine and reproductive disorders—including PCOS, thyroid dysfunction, endometriosis, gestational diabetes, preeclampsia, and menstrual irregularities—are inherently multi-factorial. Clinical interpretation depends on fragmented inputs such as laboratory values, anthropometric measures (BMI, WHR), symptoms, and patient history.
+Problem Context: Women’s endocrine and reproductive disorders—including PCOS, thyroid dysfunction, endometriosis, gestational diabetes, preeclampsia, and menstrual irregularities—are inherently multi-factorial. Clinical interpretation depends on fragmented inputs such as laboratory values, anthropometric measures (BMI, WHR), symptoms, and patient history.
 
 In practice, this leads to inconsistent interpretations across settings. Patients are often given binary labels without explanation, while clinicians must operate under time constraints with heterogeneous data. The result is a gap between data availability and interpretable reasoning.
 
