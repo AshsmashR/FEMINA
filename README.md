@@ -108,27 +108,21 @@ Risk Status: High Risk
 Note: This assessment is non-diagnostic and intended for clinical support only.
 Performance Summary
 
-**The system demonstrates stable and confident structured generation:
-
+The system demonstrates stable and confident structured generation:
 Adapter B: Perplexity ~2.99
-
 Adapter A: Perplexity ~3.52
-**
+
 These values indicate strong token-level confidence and consistent adherence to structured output formats. Additionally, probabilistic outputs closely align with ground truth values, demonstrating reliable reasoning calibration.
 
 Deployment and Efficiency
 
-**FEMINA is designed for practical deployment:
+FEMINA is designed for practical deployment:
 
 4-bit quantized base model
-
 Lightweight LoRA adapters
-
 ~4 hours total training time
-
 Single GPU compatibility
-
-Modular architecture**
+Modular architecture
 
 This makes it feasible for use in resource-constrained clinical or research environments.
 
