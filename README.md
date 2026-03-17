@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/72e5a842-1248-471a-80af-52b5b14baabb" />
+<img width="1080" height="607" alt="image" src="https://github.com/user-attachments/assets/9a647698-5929-47f1-a0ed-c50e94b3f6d7" /><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/72e5a842-1248-471a-80af-52b5b14baabb" />
 
 🌸 FEMINA 🌸
 
@@ -93,6 +93,10 @@ BP: 150/95 mmHg
 Glucose: 145 mg/dL  
 Gestational age: 32 weeks
 
+✅UI OF FEMINA ✅
+<img width="1080" height="607" alt="image" src="https://github.com/user-attachments/assets/7a7ebcaa-3b59-4cce-9180-819d7f169033" />
+
+
 Output
 
 Clinical Pattern: Elevated blood pressure with impaired glucose regulation  
@@ -105,17 +109,17 @@ Risk Status: High Risk
 Note: This assessment is non-diagnostic and intended for clinical support only.
 Performance Summary
 
-The system demonstrates stable and confident structured generation:
+**The system demonstrates stable and confident structured generation:
 
 Adapter B: Perplexity ~2.99
 
 Adapter A: Perplexity ~3.52
-
+**
 These values indicate strong token-level confidence and consistent adherence to structured output formats. Additionally, probabilistic outputs closely align with ground truth values, demonstrating reliable reasoning calibration.
 
 Deployment and Efficiency
 
-FEMINA is designed for practical deployment:
+**FEMINA is designed for practical deployment:
 
 4-bit quantized base model
 
@@ -125,21 +129,18 @@ Lightweight LoRA adapters
 
 Single GPU compatibility
 
-Modular architecture
+Modular architecture**
 
 This makes it feasible for use in resource-constrained clinical or research environments.
 
 Future Direction
-
 The next extension introduces multimodal reasoning, integrating imaging inputs such as ovarian and thyroid ultrasound data. This will enable combined image + structured clinical reasoning, extending FEMINA beyond text-based interpretation.
+The Adapter testing and response fine tuning of the model is ongoing as to prevent hallucinations.
 
 Disclaimer
-
 FEMINA does not provide medical diagnoses.
 It is intended strictly for:
-
 Clinical decision support
-
 Risk interpretation
-
 Educational use
+
