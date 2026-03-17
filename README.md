@@ -1,4 +1,4 @@
-<img width="1080" height="607" alt="image" src="https://github.com/user-attachments/assets/9a647698-5929-47f1-a0ed-c50e94b3f6d7" /><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/72e5a842-1248-471a-80af-52b5b14baabb" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/30f5b738-c033-4237-ba57-8c82ea13aa4e" />
 
 🌸 FEMINA 🌸
 
